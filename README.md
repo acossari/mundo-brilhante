@@ -1,14 +1,19 @@
-# Mundo Brilhante 🎮
+# Mundo Brilhante Village 🏡✨
 
-Protótipo de jogo em HTML, CSS e JavaScript.
+Jogo interativo para navegador e celular, desenvolvido em HTML, CSS e JavaScript.
 
 ## Como jogar
 
-Abra `index.html` no navegador.
+Abra `index.html` em um navegador ou acesse o site publicado pelo GitHub Pages (quando ativado).
 
-## Publicação com GitHub Pages
+- Toque nas casas e nos estabelecimentos para entrar.
+- Explore cômodos e interaja com objetos e portas.
+- Pegue itens para a mochila.
+- Use o celular do jogo, incluindo os aplicativos **Clima** e **Jogos**.
+- Personalize seu personagem.
 
-No repositório, entre em **Settings > Pages** e selecione **Deploy from a branch**, branch **main** e pasta **/(root)**. Depois de salvar, o endereço ficará no formato `https://USUARIO.github.io/mundo-brilhante/`.
+## Publicação
 
-O jogo é experimental e não equivale a um jogo comercial em 3D.
+Para publicar, em **Settings → Pages**, configure **Deploy from a branch → main → /(root)**.
 
+Projeto: Mundo Brilhante Village.
